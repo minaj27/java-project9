@@ -1,0 +1,14 @@
+button{
+    display: block;
+    margin: 10px;
+    background-color: aqua;
+    padding: 10px;
+    width: 100px;
+    border-top-right-radius: 20px;
+    border: 2px solid red;
+    box-shadow: 5px 5px 5px;
+    background-image: linear-gradient(red, coral,pink,yellow);
+}
+span{
+    color: white;
+}
